@@ -1,4 +1,5 @@
 # YAMT Client
+> A project management tool with the key aim of automating task delegation.
 
 ![](https://img.shields.io/github/last-commit/taskflare/yamt-client)
 ![](https://img.shields.io/travis/com/taskflare/yamt-client)
